@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/MisterGB/New_York_Times_Search_Android/blob/master/NYTimeSearch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AlainFds/NYTimeSearch/blob/master/NYTimeSearch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
